@@ -18,12 +18,14 @@ My interests include:
 
 ## Featured Projects
 
+
 ### Credit Score Prediction (Machine Learning)
-Built an ML pipeline to predict credit scores using financial data.
+
+Built a machine learning model to predict customer credit scores using financial behaviour data.
 
 Tech: Python, Pandas, Scikit-learn
 
-[View Project](link)
+🔗 [View Project](https://github.com/puongmint/TracyNguyen_Portfolio/tree/main/credit-score-ml-prediction)
 
 ---
 
@@ -32,7 +34,7 @@ Deep learning model for traffic sign classification using CNN.
 
 Tech: PyTorch, Computer Vision
 
-[View Project](link)
+🔗 [View Project](link)
 
 ---
 
@@ -41,7 +43,7 @@ Analysis of marketplace performance data to identify revenue drivers.
 
 Tech: Python, Data visualisation
 
-[View Project](link)
+🔗 [View Project](link)
 
 ---
 
