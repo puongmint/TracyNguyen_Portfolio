@@ -49,7 +49,7 @@ Among the tested models, **Hist Gradient Boosting achieved the best overall perf
 
 Example comparison of model accuracy.
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](https://github.com/puongmint/TracyNguyen_Portfolio/blob/main/credit-score-ml-prediction/images/model_comparison.png)
 
 ---
 
@@ -57,7 +57,7 @@ Example comparison of model accuracy.
 
 Evaluation of the best-performing model.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://raw.githubusercontent.com/puongmint/TracyNguyen_Portfolio/main/credit-score-ml-prediction/images/confusion_matrix.png)
 
 ---
 
