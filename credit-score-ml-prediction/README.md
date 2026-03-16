@@ -23,6 +23,11 @@ This project builds a machine learning pipeline to explore financial indicators 
 * Google Colab
 
 ---
+## How to Run
+
+1. Open the notebook in Google Colab
+2. Install the required libraries
+3. Run the notebook from top to bottom
 
 ## Project Workflow
 
