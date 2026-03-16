@@ -1,4 +1,4 @@
-# TracyNguyen_Portfolio
+# Tracy Duong Nguyen Portfolio
 AI &amp; Data Analytics Portfolio – Machine Learning, Data Analysis, and Business Analytics Projects
 
 # Hi, I'm Tracy Nguyen
@@ -25,16 +25,7 @@ Built a machine learning model to predict customer credit scores using financial
 
 Tech: Python | Pandas | Scikit-learn | Matplotlib
 
-🔗 [View Project](credit-score-ml-prediction)
-
----
-
-### German Traffic Sign Detection
-Deep learning model for traffic sign classification using CNN.
-
-Tech: PyTorch, Computer Vision
-
-🔗 [View Project](link)
+🔗 [View Project](Credit_Score_Prediction_using_Machine_Learning)
 
 ---
 
@@ -65,5 +56,5 @@ Jupyter Notebook, Git, Google Colab
 
 ## Connect with me
 
-LinkedIn:  
-Email:
+LinkedIn:  https://www.linkedin.com/in/tracy-duong-nguyen/
+Email: tracyduongnguyen@gmail.com
