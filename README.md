@@ -23,9 +23,9 @@ My interests include:
 
 Built a machine learning model to predict customer credit scores using financial behaviour data.
 
-Tech: Python, Pandas, Scikit-learn
+Tech: Python | Pandas | Scikit-learn | Matplotlib
 
-🔗 [View Project](https://github.com/puongmint/TracyNguyen_Portfolio/tree/main/credit-score-ml-prediction)
+🔗 [View Project](credit-score-ml-prediction)
 
 ---
 
