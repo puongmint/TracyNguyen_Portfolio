@@ -1,60 +1,49 @@
 # Tracy Duong Nguyen Portfolio
-AI &amp; Data Analytics Portfolio – Machine Learning, Data Analysis, and Business Analytics Projects
 
-# Hi, I'm Tracy Nguyen
+Hi, I'm Tracy Nguyen — an MSc Artificial Intelligence & Data Analytics student at Loughborough University London.
 
-MSc Artificial Intelligence & Data Analytics student at Loughborough University London.
-
-I have three years of experience in e-commerce analytics and marketplace optimisation, and I am currently developing strong technical skills in Python, machine learning, and data analysis.
-
-My interests include:
-
-• Machine learning applications in business  
-• Data-driven decision making  
-• AI in digital commerce  
-• Predictive analytics  
+I build data-driven projects using machine learning, data analysis, and Python, with a strong interest in applying AI and analytics to business problems.
 
 ---
 
 ## Featured Projects
 
+### Credit Score Prediction using Machine Learning
 
-### Credit Score Prediction (Machine Learning)
+Built an end-to-end machine learning project to predict customer credit scores using financial behaviour and credit history data.
 
-Built a machine learning model to predict customer credit scores using financial behaviour data.
+**Tech Stack:** Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Google Colab
 
-Tech: Python | Pandas | Scikit-learn | Matplotlib
-
-🔗 [View Project](Credit_Score_Prediction_using_Machine_Learning)
-
----
-
-### E-commerce Data Analytics
-Analysis of marketplace performance data to identify revenue drivers.
-
-Tech: Python, Data visualisation
-
-🔗 [View Project](link)
+[View Project](credit-score-ml-prediction)
 
 ---
 
 ## Skills
 
-Programming  
-Python, SQL
+### Programming
+- Python
+- SQL
 
-Data Analysis  
-Pandas, NumPy, Data visualisation
+### Data Analysis
+- Pandas
+- NumPy
+- Data Visualisation
+- Exploratory Data Analysis (EDA)
 
-Machine Learning  
-Scikit-learn, model evaluation, feature engineering
+### Machine Learning
+- Scikit-learn
+- Feature Engineering
+- Model Evaluation
+- Classification Models
 
-Tools  
-Jupyter Notebook, Git, Google Colab
+### Tools
+- Jupyter Notebook
+- Google Colab
+- GitHub
 
 ---
 
-## Connect with me
+## Connect with Me
 
-LinkedIn:  https://www.linkedin.com/in/tracy-duong-nguyen/
-Email: tracyduongnguyen@gmail.com
+- **LinkedIn:** [Tracy Duong Nguyen](https://www.linkedin.com/in/tracy-duong-nguyen/)
+- **Email:** tracyduongnguyen@gmail.com
