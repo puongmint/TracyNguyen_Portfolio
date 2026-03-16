@@ -29,6 +29,13 @@ This project builds a machine learning pipeline to explore financial indicators 
 2. Install the required libraries
 3. Run the notebook from top to bottom
 
+## Dataset
+
+The dataset contains financial and behavioural attributes used to classify customer credit score categories.
+Dataset source: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+
+---
+
 ## Project Workflow
 
 1. Data cleaning and preprocessing
@@ -74,11 +81,6 @@ Evaluation of the best-performing model.
 
 ---
 
-## Dataset
-
-The dataset contains financial and behavioural attributes used to classify customer credit score categories.
-
----
 
 ## Future Improvements
 
