@@ -1,19 +1,5 @@
 # Credit Score Prediction using Machine Learning
 
-```
-credit-score-ml-prediction
-
-│
-├── data
-├── notebooks
-│   └── credit_score_model.ipynb
-├── images
-│   ├── feature_importance.png
-│   └── model_comparison.png
-├── requirements.txt
-└── README.md
-```
-
 ## Project Overview
 
 This project develops a machine learning model to predict customer credit scores based on financial behaviour and credit history data.
