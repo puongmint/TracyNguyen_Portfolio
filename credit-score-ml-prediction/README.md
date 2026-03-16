@@ -32,6 +32,7 @@ This project builds a machine learning pipeline to explore financial indicators 
 ## Dataset
 
 The dataset contains financial and behavioural attributes used to classify customer credit score categories.
+
 Dataset source: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
 ---
