@@ -1,53 +1,91 @@
 # Credit Score Prediction using Machine Learning
 
+An end-to-end machine learning project that predicts customer credit scores using financial behaviour and credit history data. The project demonstrates the full data science workflow from data cleaning and exploratory analysis to model training, evaluation, and prediction.
+
+---
+
 ## Project Overview
 
-This project develops a machine learning model to predict customer credit scores based on financial behaviour and credit history data.
+Financial institutions rely on credit scores to assess the risk of lending to customers. Accurately predicting credit scores can help support better credit risk management and automated lending decisions.
 
-The goal is to explore how different financial indicators influence credit risk and to compare the performance of multiple machine learning models.
-
----
-
-## Tools
-
-Python  
-Pandas  
-Scikit-learn  
-Matplotlib  
-Seaborn  
+This project builds a machine learning pipeline to explore financial indicators and predict credit score categories.
 
 ---
 
-## Workflow
+## Tech Stack
 
-1. Data cleaning  
-2. Exploratory data analysis  
-3. Feature engineering  
-4. Model training  
-5. Model evaluation  
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Google Colab
+
+---
+
+## Project Workflow
+
+1. Data cleaning and preprocessing
+2. Exploratory data analysis (EDA)
+3. Feature engineering
+4. Model training
+5. Model evaluation
+6. Final predictions on test data
 
 ---
 
 ## Models Tested
 
-- Logistic Regression  
-- Decision Tree  
-- Random Forest  
+* Logistic Regression
+* Random Forest
+* Hist Gradient Boosting
 
-Random Forest produced the best performance.
+Among the tested models, **Hist Gradient Boosting achieved the best overall performance**.
+
+---
+
+## Model Performance
+
+Example comparison of model accuracy.
+
+![Model Comparison](images/model_comparison.png)
+
+---
+
+## Confusion Matrix
+
+Evaluation of the best-performing model.
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
 ## Key Insights
 
-- Payment behaviour strongly influences credit score  
-- High credit utilisation correlates with lower scores  
-- Historical financial behaviour predicts credit risk  
+* Payment behaviour is a strong predictor of credit score.
+* High credit utilisation is associated with lower credit scores.
+* Historical financial behaviour significantly influences credit risk.
+
+---
+
+## Dataset
+
+The dataset contains financial and behavioural attributes used to classify customer credit score categories.
 
 ---
 
 ## Future Improvements
 
-- Hyperparameter tuning  
-- Model explainability with SHAP  
-- Deployment as a web application
+* Hyperparameter tuning using GridSearchCV
+* Model explainability using SHAP
+* Advanced models such as XGBoost or LightGBM
+* Deploy the model as a simple web application (Streamlit)
+
+---
+
+## Author
+
+Tracy Nguyen
+MSc Artificial Intelligence & Data Analytics
+Loughborough University London
