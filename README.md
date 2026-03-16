@@ -5,7 +5,7 @@ AI &amp; Data Analytics Portfolio – Machine Learning, Data Analysis, and Busin
 
 MSc Artificial Intelligence & Data Analytics student at Loughborough University London.
 
-I have over two years of experience in e-commerce analytics and marketplace optimisation, and I am currently developing strong technical skills in Python, machine learning, and data analysis.
+I have three years of experience in e-commerce analytics and marketplace optimisation, and I am currently developing strong technical skills in Python, machine learning, and data analysis.
 
 My interests include:
 
