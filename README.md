@@ -26,7 +26,7 @@ Built a scalable product recommendation system using over 436,000 Amazon product
 
 **Tech Stack:** Python | Pandas | NumPy | Scikit-learn | NLP | Recommender Systems | Jupyter Widgets
 
-View Project
+[View Project](amazon_product_recommender_system)
 
 ### Credit Score Prediction using Machine Learning
 
