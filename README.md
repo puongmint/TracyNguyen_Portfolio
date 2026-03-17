@@ -1,50 +1,80 @@
-# Tracy Duong Nguyen Portfolio
+# Tracy Nguyen – AI & Data Analytics Portfolio
 
-Hi, I'm Tracy Nguyen. I am an MSc Artificial Intelligence and Data Analytics student at Loughborough University London, with experience in data analytics, machine learning, and e-commerce platforms.
+MSc Artificial Intelligence & Data Analytics student at Loughborough University London, with professional experience in e-commerce analytics, marketplace optimisation, and data-driven decision making.
 
-My projects focus on applying data science and AI techniques to solve real business problems, including recommendation systems, credit risk prediction, and marketplace analytics.
+My work focuses on applying data analysis and machine learning to real business problems, particularly within digital commerce, customer behaviour, and product performance.
+
+**This portfolio showcases projects where I apply Python, machine learning, and data analysis techniques to extract insights, build predictive models, and support better decision-making.**
 
 ---
 
 ## Featured Projects
 
-### Amazon Product Recommendation System
+### 1. Amazon Product Recommendation System
 
-Built a scalable product recommendation system using over 436,000 Amazon products. The system allows users to search for a product and receive similar recommendations based on textual product features and popularity signals.
+Content-based recommendation system built using TF-IDF vectorisation and Nearest Neighbours to identify similar products based on textual features.
 
-**Key Features**
+The system enables users to search products and receive relevant recommendations, simulating how e-commerce platforms surface related items to improve discovery and sales.
 
-- Content-based recommendation using TF-IDF vectorization
+**Key Techniques**
 
-- Fast similarity retrieval with Nearest Neighbors
+- Text preprocessing and feature extraction
 
-- Hybrid ranking combining product similarity, rating, and review count
+- TF-IDF vectorisation
 
-- Interactive search and recommendation demo with product images
+- Nearest Neighbour similarity search
 
-- Large-scale dataset analysis and feature engineering
+- Hybrid ranking using popularity signals
+
+- Interactive search and recommendation workflow
+
+**Key Insights**
+
+- Text similarity can effectively capture product relationships within large catalogues.
+
+- Combining similarity with popularity metrics improves recommendation relevance.
+
+- Recommender systems play a key role in product discovery and conversion optimisation in e-commerce.
 
 **Tech Stack:** Python | Pandas | NumPy | Scikit-learn | NLP | Recommender Systems | Jupyter Widgets
 
 [View Project](amazon_product_recommender_system)
 
-### Credit Score Prediction using Machine Learning
+### 2. Credit Score Prediction using Machine Learning
 
-Built an end-to-end machine learning project to predict customer credit scores using financial behaviour and credit history data.
+Machine learning project that predicts customer credit score categories based on financial behaviour and credit history data.
 
-The project explores how different financial indicators influence credit risk and compares the performance of multiple machine learning models.
+The project explores how different financial indicators influence credit risk and compares multiple machine learning models.
 
-**Key Features**
+**Workflow**
 
-- Data cleaning and preprocessing of financial datasets
+- Data cleaning and preprocessing
 
-- Exploratory data analysis to identify key credit risk factors
+- Exploratory data analysis
 
-- Feature engineering for financial behaviour variables
+- Feature engineering
 
-- Model training and comparison across multiple algorithms
+- Model training and comparison
 
-- Performance evaluation and model selection
+- Model evaluation
+
+**Models Tested**
+
+- Logistic Regression
+
+- Random Forest
+
+- Hist Gradient Boosting
+
+Hist Gradient Boosting produced the best predictive performance among the tested models.
+
+**Key Insights**
+
+- Payment behaviour is a strong indicator of creditworthiness.
+
+- High credit utilisation is correlated with lower credit scores.
+
+- Historical financial behaviour provides useful signals for predicting credit risk.
 
 **Tech Stack:** Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Google Colab
 
@@ -54,26 +84,66 @@ The project explores how different financial indicators influence credit risk an
 
 ## Skills
 
-### Programming
+### Programming & Data Analysis
+
 - Python
+
+- Pandas
+
+- NumPy
+
 - SQL
 
-### Data Analysis
-- Pandas
-- NumPy
-- Data Visualisation
-- Exploratory Data Analysis (EDA)
-
 ### Machine Learning
+
 - Scikit-learn
-- Feature Engineering
-- Model Evaluation
-- Classification Models
+
+- Classification models
+
+- Feature engineering
+
+- Model evaluation
+
+### Data Visualisation
+
+- Matplotlib
+
+- Seaborn
 
 ### Tools
+
 - Jupyter Notebook
+
 - Google Colab
-- GitHub
+
+- Git & GitHub
+
+---
+## Current Focus
+
+Alongside my MSc studies, I am developing skills in:
+
+- Machine learning modelling
+
+- Data-driven decision support
+
+- Applied AI for digital commerce
+
+- Predictive analytics and recommendation systems
+
+I am particularly interested in roles where data and AI support business strategy, product optimisation, and customer insights.
+
+## Future Projects
+
+- Planned additions to this portfolio include:
+
+- Customer segmentation using clustering
+
+- Sales forecasting using machine learning
+
+- E-commerce review sentiment analysis
+
+- Business analytics dashboards
 
 ---
 
